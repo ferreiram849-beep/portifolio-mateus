@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'RoadAlert',
     description: 'Aplicativo voltado para alertas de trânsito e segurança em tempo real.',
-    link: 'https://github.com/mateus/roadalert'
+    link: 'roadalert.html'
   }
 ];
 
