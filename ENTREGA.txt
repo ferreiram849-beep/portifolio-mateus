@@ -1,0 +1,21 @@
+Portfólio Profissional - Entrega da Tarefa
+
+Nome: Mateus Ferreira Félix
+
+Descrição do projeto:
+Este é um portfólio simples criado com HTML5, CSS3 e JavaScript. O site possui:
+- Cabeçalho com menu de navegação.
+- Seção "Sobre mim" com descrição pessoal.
+- Seção "Meus Projetos" com renderização dinâmica via JavaScript.
+- Rodapé com direitos autorais.
+- Layout responsivo com tema escuro e cores em tons de azul.
+
+Links para entrega:
+1. Repositório público no GitHub:
+https://github.com/seu-usuario/nome-do-repositorio
+
+2. Projeto publicado no GitHub Pages:
+https://seu-usuario.github.io/nome-do-repositorio/
+
+Observação:
+Substitua os valores acima pelos links reais do seu repositório e do site publicado após criar e enviar o projeto.
